@@ -80,5 +80,4 @@ natural next extension would be pulling a foreign (INR) short-rate proxy and usi
 
 ## Author
 
-Yuvraj — Quantitative Options Analyst, Futures First. Built as part of an applied
-derivatives-pricing project series ahead of MFE program applications.
+Yuvraj Singh

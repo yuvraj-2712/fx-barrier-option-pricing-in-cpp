@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C++ build artifacts
+barrier_pricer
+*.o
+*.out
+*.exe
+ 
+# Generated data files (regenerated each run)
+inputs.txt
+results.csv
+sample_path.csv
+multiple_paths.csv
+closed_form_price.csv
+*.png
